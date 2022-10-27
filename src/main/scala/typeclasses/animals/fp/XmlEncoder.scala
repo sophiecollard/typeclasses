@@ -1,0 +1,1 @@
+package typeclasses.animals.fp
